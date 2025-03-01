@@ -11,5 +11,3 @@ It generates the maximum possible number of paths and numbers them.
 It then shows the puzzle/gameboard generated.
 The program also gives a possible solution for the generated puzzle.
 
-Issue : Board print formatting is a bit off for 2-digit and above grid size values.
-
